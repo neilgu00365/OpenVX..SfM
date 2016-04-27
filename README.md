@@ -48,7 +48,7 @@ Nvidia Jetson TX1 Development Kit:
 []()  
 
 6.videantis  
+[Intro for OpenVX 2013](http://www.videantis.com/the-khronos-family-has-a-new-baby-openvx.html)  
 [Letter to OpenVX](http://www.videantis.com/openvx-1-0-finalized.html)  
 [InVision Mag SfM](http://www.videantis.com/invision-magazine-structure-from-motion-3d-from-standard-cameras-for-automotive-applications.html)  
 [Mag of InVision](http://www.invision-news.de/files/inVISION_6_2015.pdf)  
-[]()  
