@@ -10,7 +10,7 @@ Nvidia Jetson TX1 Development Kit:
 *ubuntu@tegra-ubuntu:~/VisionWorks-SFM-0.82-Sample/bin  
 -Graph Time: 18.2414ms  !!! GPU->80%  
 -Color Convert Time: 0.452051 ms            RGB->YUV Color Space-> [Y channel](https://ja.wikipedia.org/wiki/YUV)  
--Pyramid Time: 1.08774 ms                   Pyramid:7 Grid:18 Points:1250
+-Pyramid Time: 1.08774 ms                   Pyramid:7 Grid:18 Points:1250  
 -Optical Flow Time: 1.08205 ms  
 -Feature Track Time: 4.94297 ms  
 -Find Fundamental Mat Time: 6.93537 ms  
