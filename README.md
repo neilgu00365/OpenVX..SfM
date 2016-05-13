@@ -52,3 +52,9 @@ Nvidia Jetson TX1 Development Kit:
 [Letter to OpenVX](http://www.videantis.com/openvx-1-0-finalized.html)  
 [InVision Mag SfM](http://www.videantis.com/invision-magazine-structure-from-motion-3d-from-standard-cameras-for-automotive-applications.html)  
 [Mag of InVision](http://www.invision-news.de/files/inVISION_6_2015.pdf)  
+
+FYI
+
+http://www.zaikei.co.jp/article/20160512/306825.html
+
+富士重工業は12日、2017年4月1日付（予定）で、社名を「株式会社ＳＵＢＡＲＵ」（英文表記：SUBARU CORPORATION）に変更すると発表した。社名をブランド名と統一することで、「スバル」を自動車と航空宇宙事業のグローバルブランドとして成長させる狙いという。  
